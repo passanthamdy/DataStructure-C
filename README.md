@@ -1,1 +1,1 @@
-# DataStructure-C
+# DataStructure and Algorithms tasks in C
